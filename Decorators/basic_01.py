@@ -1,3 +1,4 @@
+# Timing function Execution
 import time 
 
 def timer(func):
